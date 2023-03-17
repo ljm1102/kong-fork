@@ -1,6 +1,7 @@
 #YaejinKong_201900402_Department of Brazilian Studies
 #2000년 6월 15일
 #Hobby_Watching Movies
+#Dog's Name : 
 
 
 #define _CRT_SECURE_NO_WARNINGS
