@@ -1,7 +1,8 @@
 #YaejinKong_201900402_Department of Brazilian Studies
 #2000년 6월 15일
 #Hobby_Watching Movies
-#Dog's Name : 
+#Dog's Name :
+#The Members of Family: Mom, Dad, Brother and I
 
 
 #define _CRT_SECURE_NO_WARNINGS
